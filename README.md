@@ -14,3 +14,4 @@ make vprog_<1/2>
 gdb vprog_<1/2>
 r < expl_<1/2>
 ```
+### They are runnable on Brown CS server but may encounter issues locally.
